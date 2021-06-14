@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456700368722",
+    "project_id": "test-for-ios-fc5ad",
+    "storage_bucket": "test-for-ios-fc5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456700368722:android:112ca7e5ec98e2f553cc8b",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456700368722-2ffkr6bn5lbeu786dm8v7odfra82i3ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf0Nrleq3kaWsUDBeB6asGist9vs5okOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456700368722-2ffkr6bn5lbeu786dm8v7odfra82i3ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
