@@ -1,6 +1,12 @@
-# newproject
+# A Cool idea and i tried to turn it down by making it happens.
 
-A new Flutter project.
+Its an idea that comes in mind when me and my friend are talking and i tried to make it happen but due to other issues i stopped because of some reasons.
+The repository will help someone who is looking codes for :
+ 1.logins and signups with firebase
+ 2.camera feature
+ 3.tabs changing and some small amazing ui stuff.
+ 
+ happy coding :)
 
 ## Getting Started
 
